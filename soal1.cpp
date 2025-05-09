@@ -11,7 +11,7 @@ int main () {
     cout << "Masukkan Kode 3: ";
     cin >> z;
 
-    if (x >= 50 && y >= 50 && z >= 50 (x + y + z) >= 200) {
+    if (x >= 50 && y >= 50 && z >= 50 && (x + y + z) >= 200) {
         cout << "Aman" << endl;
     }
     else {
